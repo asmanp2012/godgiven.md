@@ -1,1 +1,7 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "Quillcode",
+  "textFontFamily": "Vazirmatn",
+  "interfaceFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code"
+}
