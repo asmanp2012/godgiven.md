@@ -55,7 +55,7 @@ ffmpeg -i input.avi output.mp4
 FFmpeg uses **Stream Specifiers** to let you target specific streams. The format is:
 
 ```bash
--[option] : [stream type]
+-[option]:[stream type]
 ```
 
 ## Common FFmpeg Options
